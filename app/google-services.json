@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932017714385",
+    "firebase_url": "https://fir-database-a533d.firebaseio.com",
+    "project_id": "fir-database-a533d",
+    "storage_bucket": "fir-database-a533d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932017714385:android:988c02c269f3a12a",
+        "android_client_info": {
+          "package_name": "com.example.nikma.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932017714385-q119g5ncn55pmkickt9kke35vrqm2c66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikma.firebasedatabase",
+            "certificate_hash": "d3df393b99ab0c9383892a50907d719a03ce5258"
+          }
+        },
+        {
+          "client_id": "932017714385-h3djg6grf5uo8dv1kavciak4alfcho3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGgtbxC-ix3tenlgfUQOwLFWbZ4HZBPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932017714385-h3djg6grf5uo8dv1kavciak4alfcho3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

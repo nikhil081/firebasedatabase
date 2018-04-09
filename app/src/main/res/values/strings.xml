@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firebasedatabase</string>
+
+    <array name="genres">
+        <item>rock</item>
+        <item>emotional</item>
+        <item>sufi</item>
+    </array>
+</resources>
