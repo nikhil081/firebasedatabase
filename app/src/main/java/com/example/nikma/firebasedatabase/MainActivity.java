@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
         databaseReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
+                artistlist.clear();
                 for(DataSnapshot artistshot:dataSnapshot.getChildren())
                 {
                         Artist artist = artistshot.getValue(Artist.class);

@@ -28,10 +28,10 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:text="add" />
-    <LinearLayout
+    <RelativeLayout
 
         android:layout_width="match_parent"
-        android:layout_alignParentBottom="true"
+        android:layout_marginTop="250dp"
         android:layout_height="250dp">
         <ListView
             android:layout_width="300dp"
@@ -40,5 +40,5 @@
             android:layout_alignParentBottom="true"
             android:layout_centerInParent="true">
         </ListView>
-    </LinearLayout>
+    </RelativeLayout>
 </RelativeLayout>
